@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikhilBhoneja
 - 👀 I’m interested in Application Developnment, Machine Learning, Software developement and Full stack development.
-- 🌱 I"ve completed Masters in Computer Science
+- 🌱 I have completed a Masters in Computer Science
 - 📫 How to reach me 
     [LinkedIn](https://www.linkedin.com/in/nikhil-bhoneja)
     [Email Me](nikhilbhoneja97@gmail.com)
