@@ -35,8 +35,7 @@ I'm a passionate **Full Stack Java Developer** with a knack for building innovat
 
 ---
 ## 📈 **GitHub Stats**
-
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilBhoneja&show_icons=true&theme=tokyonight)  
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilBhoneja&layout=compact&theme=tokyonight)  
 
 ---
@@ -46,18 +45,6 @@ I'm a passionate **Full Stack Java Developer** with a knack for building innovat
 - **Google Code Jam** & **Kickstart**: Qualified in multiple rounds (2019 & 2020).  
 - **AWS Certified Cloud Practitioner**: Solid understanding of cloud fundamentals.  
 - Successfully led projects in **Java**, **Angular**, and **Node.js** with end-to-end ownership.  
-
----
-
-## 🌟 **Core Projects**
-
-### **1. Bank Ledger Application**  
-**Tech Stack**: Spring Boot, Hibernate, H2 Database  
-- Built an in-memory transaction management system for real-time data handling.  
-
-### **2. Online Medical App**  
-**Tech Stack**: Node.js, HTML5, CSS3, MongoDB  
-- Designed a platform to book medical appointments and order medicines online.  
 
 ---
 
