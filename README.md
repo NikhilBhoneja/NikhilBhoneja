@@ -51,7 +51,7 @@ I'm a passionate **Full Stack Java Developer** with a knack for building innovat
 ## 📫 **Let's Connect**
 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/nikhilbhoneja)  
-- **Email**: [nikhil.bhoneja@example.com](mailto:nikhilbhoneja07@gmail.com)  
+- **Email**: [nikhilbhoneja07@gmail.com](mailto:nikhilbhoneja07@gmail.com)  
 
 ---
 
